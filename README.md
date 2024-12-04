@@ -37,7 +37,7 @@ go mod tidy
 ## How to Run the Application
 
 - 1. Clone the Repository
-    git clone https://github.com/yourusername/auth-api.git
+    git clone https://github.com/VishalJx/rest-services.git
     cd auth-api
 
 - 2. Build and Run the server
